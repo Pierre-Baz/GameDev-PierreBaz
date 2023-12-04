@@ -1,0 +1,4 @@
+repository "Git Project@PBBAZ@cloud"
+  path "/"
+    br "/main"
+    co "/main"

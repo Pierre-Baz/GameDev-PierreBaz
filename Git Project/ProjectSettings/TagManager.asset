@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Cinemachine
+  - Loot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Enemy
+  - Wall
+  - Obstacles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BGround
+    uniqueID: 477206817
+    locked: 0
+  - name: Ground
+    uniqueID: 919866897
+    locked: 0
+  - name: BEffects
+    uniqueID: 3196333213
+    locked: 0
+  - name: Enemies
+    uniqueID: 2830954995
+    locked: 0
+  - name: Object
+    uniqueID: 1223912399
+    locked: 0
+  - name: MEffects
+    uniqueID: 3909882049
+    locked: 0
+  - name: Weapon
+    uniqueID: 438032151
+    locked: 0
+  - name: FEffects
+    uniqueID: 1117701143
+    locked: 0
+  - name: Player
+    uniqueID: 2686992583
+    locked: 0
+  - name: Effects
+    uniqueID: 4202404701
+    locked: 0
