@@ -28,6 +28,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -62,17 +63,8 @@ MonoBehaviour:
   targetTilemap: {fileID: 0}
   obstaclesTilemaps: []
   autoUpdate: 1
-  objects:
-  - name: 
-    prefab: {fileID: 3221065588737229405, guid: 941e9df5da2364fe3877e0a2fc64bd6c, type: 3}
-    weight: 0.046
-  - name: 
-    prefab: {fileID: 4243257583808418974, guid: 73079fa4db29a421195f33e9778904a9, type: 3}
-    weight: 0.085
-  - name: 
-    prefab: {fileID: 8056192525891084287, guid: c334a12bcca56450eb52e16db78c1759, type: 3}
-    weight: 0.011
+  objects: []
   objectFillPercent: 1
-  useClusters: 1
-  maxObjectsPerCluster: 4
-  spacing: 2
+  useClusters: 0
+  maxObjectsPerCluster: 0
+  spacing: 0
